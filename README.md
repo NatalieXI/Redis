@@ -60,4 +60,5 @@ Redis zset不允许重复的成员。
 ## 发布订阅
 
 1. 一个实例http://blog.csdn.net/wuxuyang_7788/article/details/78004897
+2. 如果使用redis的这个功能必定会涉及到监听器
 
