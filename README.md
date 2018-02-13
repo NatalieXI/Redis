@@ -59,3 +59,5 @@ Redis zset不允许重复的成员。
 
 ## 发布订阅
 
+1. 一个实例http://blog.csdn.net/wuxuyang_7788/article/details/78004897
+
